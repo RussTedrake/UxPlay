@@ -37,8 +37,8 @@
 
 #define DEFAULT_NAME "UxPlay"
 #define DEFAULT_BACKGROUND_MODE BACKGROUND_MODE_ON
-#define DEFAULT_AUDIO_DEVICE AUDIO_DEVICE_HDMI
-#define DEFAULT_LOW_LATENCY false
+#define DEFAULT_AUDIO_DEVICE AUDIO_DEVICE_NONE
+#define DEFAULT_LOW_LATENCY true
 #define DEFAULT_DEBUG_LOG false
 #define DEFAULT_HW_ADDRESS { (char) 0x48, (char) 0x5d, (char) 0x60, (char) 0x7c, (char) 0xee, (char) 0x22 }
 
